@@ -1,0 +1,4 @@
+atm_id,status,cash_balance,total_customers_served,total_busy_time,utilization,current_customer_id
+ATM-01,BUSY,348500.0,54,6793.19,0.9458,173
+ATM-02,BUSY,416000.0,62,6645.82,0.9281,172
+ATM-03,BUSY,414000.0,55,6198.44,0.8627,174

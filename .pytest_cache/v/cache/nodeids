@@ -1,0 +1,11 @@
+[
+  "ATMFlow_Intelligence/tests/test_simulation.py::test_atm_utilization_bounds",
+  "ATMFlow_Intelligence/tests/test_simulation.py::test_capacity_increase_reduces_waiting_time",
+  "ATMFlow_Intelligence/tests/test_simulation.py::test_customer_generation_and_accounting",
+  "ATMFlow_Intelligence/tests/test_simulation.py::test_fifo_service_ordering",
+  "ATMFlow_Intelligence/tests/test_simulation.py::test_littles_law_consistency",
+  "ATMFlow_Intelligence/tests/test_simulation.py::test_mmc_queueing_theory_calculator",
+  "ATMFlow_Intelligence/tests/test_simulation.py::test_multiple_atms_parallel_operation",
+  "ATMFlow_Intelligence/tests/test_simulation.py::test_reproducibility_with_seed",
+  "ATMFlow_Intelligence/tests/test_simulation.py::test_waiting_time_non_negativity"
+]

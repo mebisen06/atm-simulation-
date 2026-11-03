@@ -1,0 +1,2 @@
+total_arrived,completed,abandoned,failed,waiting_at_end,in_service_at_end,completion_rate_pct,avg_waiting_time_sec,max_waiting_time_sec,p95_waiting_time_sec,avg_service_time_sec,avg_system_time_sec,time_weighted_queue_length,average_atm_utilization,throughput_per_hour,littles_law_lambda_effective_per_sec,littles_law_simulated_time_weighted_Lq,littles_law_theoretical_littles_Lq,littles_law_theoretical_littles_L,littles_law_relative_error
+189,171,0,0,15,3,90.48,308.84,742.07,675.14,114.84,423.68,7.986,0.9122,85.5,0.02375,7.986,7.335,10.062,0.0816

@@ -1,0 +1,6 @@
+atm_count,total_arrived,completed,avg_waiting_time_min,avg_queue_length,avg_atm_utilization_pct,throughput_per_hr
+1,179,61,38.56,60.83,98.66,30.5
+2,191,126,22.31,34.78,98.05,63.0
+3,189,171,5.15,7.99,91.22,85.5
+4,171,166,0.24,0.35,68.35,83.0
+5,192,187,0.12,0.19,60.11,93.5
